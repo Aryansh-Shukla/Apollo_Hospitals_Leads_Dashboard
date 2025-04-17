@@ -99,7 +99,6 @@ Each card gives an instant snapshot of key milestones in a patient’s journey.
 
 ## 📷 Dashboard Snapshot
 
-![Apollo Leads Flow Dashboard]
 ![Screenshot 2025-04-18 021405](https://github.com/user-attachments/assets/e19f0a75-1472-4fad-9463-f533c0fc5957)
 
 ---
